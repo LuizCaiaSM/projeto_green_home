@@ -4,3 +4,4 @@
 Fernando Santana | Tela de METAS e tela de DICAS, realizar o CRUD de metas de acordo com os RF012 <br/>
 Carlos Diego Martins | Tela de Práticas, realizar o CRUD de práticas.<br/>
 Luiz Caiã Santos Macedo | Tela de PERFIL, realizar o CRUD de perfil de acordo com os RF014.<br/>
+Irwing Feitoza | Tela de LOGIN e CADASTRO
